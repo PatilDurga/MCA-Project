@@ -1,4 +1,4 @@
-Title : Stock Market Price prediction using Python 
+Project Title : Stock Market Price prediction using Python 
 
 Stock Market Price prediction is a Machine Learning Project using Python.
 Implement the Algorithm which predict stock market price using LSTM model .
